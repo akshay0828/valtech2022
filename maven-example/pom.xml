@@ -2,19 +2,27 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.valtech.training</groupId>
+
+
+ <groupId>com.valtech.learning</groupId>
   <artifactId>maven-example</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>maven-example</name>
+
+
+ <name>maven-example</name>
   <url>http://maven.apache.org</url>
 
-  <properties>
+
+
+ <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
-  <dependencies>
+
+
+ <dependencies>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
